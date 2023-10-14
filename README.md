@@ -56,17 +56,35 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 2. Identified  market trends and track KPIs
  
 ## Skills
-### Technical Skills
-* Learnt Power BI fundamentals
-  1. creating calcualting columns,DAX measures, and date table using M language
-  2. Data Modelling ,data validation techniques and using KPI indicators
-  3. using bookmarks to switch between two visuals and conditonal formatting
-  4. page navigation with buttons and using tooltips to save page area
-  5. Dynamic titles based on the applied filters
-  6. powerBI services for publishing and sharing reports onine
-  7. auto refresh setup for data through gateway
-*Project Charter file
-*Loading data from SQL AND Excel files
-*     
+### Learnt Power BI fundamentals
+ 1.creating calcualting columns and DAX measures
+ 2. Data Modelling ,data validation techniques and using KPI indicators
+ 3. using bookmarks to switch between two visuals and conditonal formatting
+ 4. page navigation with buttons
+ 5. using tooltips to save page area
+ 6. Dynamic titles based on the applied filters
+ 7.PowerBI services for publishing and sharing reports onine
+ 8. Auto refresh setup for data through gateway
+ 9. Creating date table using M language 
+### Tech Stacks
+1. SQL
+2. PowerBI Desktop
+3. DAX language
+4. Dax studio( TO REDUCE FILE SIZE)
+5. Project Charter file
+ ### Business Related Terms
+ 1. Gross Margin,Gross Margin % 
+ 2. Gross Sales , Gross Sales % 
+ 3. Pre _ invoice deductions and Post _ invoice deductions
+ 4. Net sales , Net Invoice Sales 
+ 5. Net Profit and Net Profit %
+ 6. COGS(cost of goods sold)
+ 7. YTG (year to go)
+ 8. YTD ( year to date)
+ 9. Direct ,retailer, consumer and distributors
+ ### Soft Skills
+1.understanding expectations of project from project owner
+2.communications skills with stakeholders to do changes in dashboard
+3. Time management skills 
  
  
