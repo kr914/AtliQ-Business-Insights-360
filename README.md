@@ -1,4 +1,4 @@
-# -AtliQ-Business-Insights--360 
+# -AtliQ-Business-Insights--360    
 
 ##  Project Overview
 This project aims to streamline and optimize various aspects of  AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
@@ -86,6 +86,8 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
  1. understanding expectations of project from project owner
  2. communications skills with stakeholders to do changes in dashboard
  3. Time management skill
+    ### Conclusion
+    This dashboard answers many business questions based on different scenerio. This report can be used to take data driven decision to make AtliQ more profitable.
 
 
  
