@@ -57,15 +57,15 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
  
 ## Skills
 ### Learnt Power BI fundamentals
- 1.creating calcualting columns and DAX measures
- 2. Data Modelling ,data validation techniques and using KPI indicators
- 3. using bookmarks to switch between two visuals and conditonal formatting
- 4. page navigation with buttons
- 5. using tooltips to save page area
- 6. Dynamic titles based on the applied filters
- 7.PowerBI services for publishing and sharing reports onine
- 8. Auto refresh setup for data through gateway
- 9. Creating date table using M language 
+   1.creating calcualting columns and DAX measures
+   2. Data Modelling ,data validation techniques and using KPI indicators
+   3. using bookmarks to switch between two visuals and conditonal formatting
+   4. page navigation with buttons
+   5. using tooltips to save page area
+  6. Dynamic titles based on the applied filters
+  7.PowerBI services for publishing and sharing reports onine
+  8. Auto refresh setup for data through gateway
+  9. Creating date table using M language 
 ### Tech Stacks
 1. SQL
 2. PowerBI Desktop
