@@ -1,7 +1,9 @@
 # -AtliQ-Business-Insights--360 
 
-## Overview
+##  Project Overview
 This project aims to streamline and optimize various aspects of  AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
+
+## Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Finance View
 
@@ -53,8 +55,18 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 1. Created  region and product wise  overall market performance report and unit economics. 
 2. Identified  market trends and track KPIs
  
-
-## Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+## Skills
+### Technical Skills
+* Learnt Power BI fundamentals
+  1. creating calcualting columns,DAX measures, and date table using M language
+  2. Data Modelling ,data validation techniques and using KPI indicators
+  3. using bookmarks to switch between two visuals and conditonal formatting
+  4. page navigation with buttons and using tooltips to save page area
+  5. Dynamic titles based on the applied filters
+  6. powerBI services for publishing and sharing reports onine
+  7. auto refresh setup for data through gateway
+*Project Charter file
+*Loading data from SQL AND Excel files
+*     
  
  
