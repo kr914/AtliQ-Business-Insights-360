@@ -83,9 +83,9 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
  8. YTD ( year to date)
  9. Direct ,retailer, consumer and distributors
  ### Soft Skills
- 1. understanding expectations of project from project owner
- 2. communications skills with stakeholders to do changes in dashboard
- 3. Time management skill
+ 1. Stakeholders mapping analysis
+ 2. Effective communication with stakeholders feedback and management
+ 3. Business and domain knowledge in sales,finance,marketing and supply chain.
     ### Conclusion
     This dashboard answers many business questions based on different scenerio. This report can be used to take data driven decision to make AtliQ more profitable.
 
