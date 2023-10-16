@@ -87,7 +87,8 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
  2. Effective communication with stakeholders feedback and management
  3. Business and domain knowledge in sales,finance,marketing and supply chain.
  ### Conclusion
-    This dashboard answers many business questions based on different scenerio. This report can be used to take data driven decision to make AtliQ more profitable.
+    This dashboard answers many business questions based on different scenerio.
+    This report can be used to take data driven decision to make AtliQ more profitable.
 
 
  
